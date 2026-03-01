@@ -15,17 +15,30 @@ const About = () => {
       <div className="about-box">
         <h2>Who We Are</h2>
         <p>
-          We are pleased to introduce <strong>Glory Energy Engineering</strong> as a
-          reliable and professional electrical engineering service provider
-          based in Dhaka, Bangladesh. We specialize in delivering complete
-          electrical installation, rectification, and safety solutions for
-          factories, commercial buildings, and industrial facilities.
+          We are pleased to introduce <strong>Glory Energy Engineering</strong> as a 
+          reliable and professional electrical engineering service provider 
+          based in Dhaka, Bangladesh. Our team is dedicated to delivering 
+          high-quality solutions with a strong focus on safety, efficiency, 
+          and client satisfaction.
         </p>
-
         <p>
-          Our team focuses on safety, compliance, and long-term reliability by
-          following national and international standards in every project we
-          undertake.
+          We specialize in complete electrical installation, rectification, 
+          and preventive maintenance for factories, commercial buildings, 
+          industrial facilities, and residential projects. Our services cover 
+          electrical wiring, sub-station panel supply, lightning protection systems, 
+          and fire detection & protection solutions.
+        </p>
+        <p>
+          At <strong>Glory Energy Engineering</strong>, we combine advanced technology, 
+          certified professionals, and industry best practices to ensure that 
+          every project is completed on time and to the highest standards. 
+          Our goal is to provide safe, reliable, and cost-effective electrical 
+          solutions tailored to your specific needs.
+        </p>
+        <p>
+          Whether it involves designing new electrical systems, upgrading existing infrastructure, 
+          or performing comprehensive safety audits, our team is dedicated to delivering 
+          excellence, fostering innovation, and building lasting partnerships with every client.
         </p>
       </div>
 

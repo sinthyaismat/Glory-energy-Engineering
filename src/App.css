@@ -40,3 +40,37 @@
 .read-the-docs {
   color: #888;
 }
+
+
+/* Top Contact Bar */
+.top-bar {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 25px;
+  padding: 8px 40px;
+  background-color: #222;
+  font-size: 14px;
+}
+
+/* Contact Info Style */
+.contact-info {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.contact-info a {
+  text-decoration: none;
+  color: white;
+  transition: 0.3s;
+}
+
+.contact-info a:hover {
+  color: #ff9800;
+}
+
+/* Icon Color */
+.icon {
+  color: #ff9800;
+}
